@@ -1,15 +1,15 @@
 <h1 align="center">Olá 👋, sou Alan Brito</h1>
-<h3 align="center">Sou estudante de Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Unigranrio, estou interessado pela área de análise de dados e aprendizado de máquina.</h3>
+<h3 align="center">Sou estudante de Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Unigranrio, estou interessado pelas áreas de análise de dados e aprendizado de máquina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanbs27&label=Profile%20views&color=0e75b6&style=flat" alt="alanbs27" / > </p>
 
-- 🌱 Atualmente estou aprendendo **Python, Data Science, Machine Learning e Power BI**
+- 🌱 Atualmente estou aprendendo **Python, Data Science, Machine Learning, Power BI e RPA UiPath**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github/alanbs27](https:/ /github/alanbs27)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github/alanbs27]( https://github/alanbs27)
 
 - 💬 Pergunte-me sobre **Python, Sql, Power BI, Excel**
 
-- 📫 Como entrar em contato comigo **alanba27@gmail.com**
+- 📫 Como entrar em contato comigo **alanbs27@gmail.com**
 
 - 📄 Conheça minhas experiências [https://linkedin.com/in/alan-brito-84430124b](https://linkedin.com/in/alan-brito-84430124b)
 
@@ -24,19 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alanbs27&show_icons=true&locale=en&layout=compact" alt="alanbs27" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanbs27&show_icons=true&theme=dark&locale=en" alt="alanbs27" /></p>
-
-
-<!--
-**alanbs27/alanbs27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
