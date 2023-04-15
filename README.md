@@ -11,11 +11,11 @@
 
 - 📫 Como entrar em contato comigo **alanbs27@gmail.com**
 
-- 📄 Conheça minhas experiências [https://linkedin.com/in/alan-brito-84430124b]
+- 📄 Conheça minhas experiências [https://linkedin.com/in/alan-brito-84430124b](https://linkedin.com/in/alan-brito-84430124b)
 
 <h3 align="left">Conecte-se com eu:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/alan-brito-84430124b" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="https://linkedin.com/in/alan-brito-84430124b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alan-brito-84430124b" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="https://linkedin.com/in/alan-brito-84430124b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas: </h3>
