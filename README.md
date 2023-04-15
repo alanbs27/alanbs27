@@ -11,7 +11,7 @@
 
 - 📫 Como entrar em contato comigo **alanbs27@gmail.com**
 
-- 📄 Conheça minhas experiências [https://linkedin.com/in/alan-brito-84430124b](https://linkedin.com/in/alan-brito-84430124b)
+- 📄 Conheça minhas experiências [https://linkedin.com/in/alan-brito-84430124b]
 
 <h3 align="left">Conecte-se com eu:</h3>
 <p align="left">
