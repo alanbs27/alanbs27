@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Alan Brito</h1>
-<h3 align="center">Sou estudante de Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Unigranrio, estou interessado pelas áreas de análise de dados e aprendizado de máquina.</h3>
+<h3 align="center">Sou estudante de Tecnólogo em Análise e Desenvolvimento de Sistemas na Universidade Unigranrio, estou interessado pelas áreas de Análise de dados, aprendizado de máquina e Desenvolvimento backend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanbs27&label=Profile%20views&color=0e75b6&style=flat" alt="alanbs27" / > </p>
 
